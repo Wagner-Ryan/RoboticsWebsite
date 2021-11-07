@@ -1,0 +1,89 @@
+.all{
+    width: 65vw;
+    height: 50vw;
+    margin: 4vw auto 0vw auto;
+}
+
+.aboutHeader{
+    width: 30vw;
+    height: 1.4vw;
+    float: left;
+    font-size: 1.4vw;
+    text-align: center;
+    margin-top: 3vw;
+
+}
+
+.aboutInfo{
+    width: 24vw;
+    height: 20vw;
+    margin-top: 4.5vw;
+    font-size: 1.2vw;
+    text-align: center;
+    padding: 1vw 3vw;
+}
+
+.aboutInfo a{
+    text-decoration: underline;
+    color: black;
+}
+
+.team{
+    width: 34.5vw;
+    height: 25vw;
+    float: right;
+    margin-top: -20vw;
+}
+
+.divider{
+    width: 35vw;
+    height: .1vw;
+    background-color: rgb(0, 100, 0);
+    float: left;
+    margin-top: 3.5vw;
+    margin-left: 3vw;
+}
+
+.frc{
+    width: 18vw;
+    height: 12vw;
+    margin-top: 12vw;
+    margin-left: -35vw;
+}
+
+.frcInfo{
+    width: 20vw;
+    height: 15vw;
+    margin-left: 24vw;
+    margin-top: -13vw;
+}
+
+.frcInfo .header{
+    width: 19.9vw;
+    height: 1.4vw;
+    margin: 0vw auto;
+    font-size: 1.4vw;
+    text-align: center;
+}
+
+.frcInfo .header a{
+    color: black;
+    font-size: 1.4vw;
+}
+
+.frcInfo .info{
+    width: 19.9vw;
+    height: 13vw;
+    margin-top: .4vw;
+    text-align: center;
+    font-size: 1vw;
+}
+
+.comp{
+    width: 16vw;
+    height: auto;
+    float: right;
+    margin-right: 1.5vw;
+    margin-top: -20vw;
+}
+

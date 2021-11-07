@@ -1,0 +1,151 @@
+header{
+    width: 60vw;
+    height: 2vw;
+    margin: 0vw auto;
+    background-color: white;
+    border: solid;
+}
+
+.home{
+    width: auto;
+    height: 1.15vw;
+    margin-top: 2.2vw;
+    margin-left: 2vw;
+    float: left;
+}
+
+.home:hover{
+    background-color: yellow;
+}
+
+.home a{
+    font-size: 1.15vw;
+    color: black;
+}
+
+.about{
+    width: auto;
+    height: 1.15vw;
+    margin-top: 2.2vw;
+    margin-left: 2vw;
+    float: left;
+}
+
+.about:hover{
+    background-color: yellow;
+}
+
+.about a{
+    font-size: 1.15vw;
+    color: black;
+}
+
+.seasons{
+    width: auto;
+    height: 1.15vw;
+    margin-top: 2.2vw;
+    margin-left: 2vw;
+    float: left;
+}
+
+.seasons:hover{
+    background-color: yellow;
+}
+
+.seasons a{
+    font-size: 1.15vw;
+    color: black;
+}
+
+.sponsors{
+    width: auto;
+    height: 1.15vw;
+    margin-top: 2.2vw;
+    margin-left: 2vw;
+    position: relative;
+    display: inline-block;
+    float: left;
+}
+
+.sponsors:hover{
+    background-color: yellow;
+}
+
+.sponsors .text{
+    /*line-height: 5.7vw;*/
+    font-size: 1.15vw;
+    color: black;
+}
+
+.sponsors .dropdown{
+    width: 4.2vw;
+    height: 3vw;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    background-color: white;
+    display: none;
+}
+
+.sponsors:hover .dropdown{
+    display: block;
+
+}
+
+.sponsors .dropdown a{
+    font-size: 1.15vw;
+    color: black;
+}
+
+.contact{
+    width: auto;
+    height: 1.15;
+    margin-top: 2.2vw;
+    margin-left: 2vw;
+    float: left;
+}
+
+.contact:hover{
+    background-color: yellow;
+}
+
+.contact a{
+    font-size: 1.15vw;
+    color: black;
+}
+
+.teamlogo{
+    float: left;
+    width: 5vw;
+    height: auto;
+    margin-left: 2vw;
+}
+
+.name{
+    width: 17vw;
+    height: auto;
+    margin-top: 1.5vw;
+    font-size: 2vw;
+    float: left;
+    margin-left: 1vw;
+}
+
+.bottom{
+    margin-top: 2vw;
+    width: 100vw;
+    height: 5vw;
+    background-color: black;
+}
+
+.bottom .images{
+    width: 20vw;
+    height: auto;
+    margin: 0vw auto;
+}
+
+.bottom .images img{
+    margin-top: 1vw;
+    margin-left: 2vw;
+    height: 3vw;
+    width: 3vw;
+}

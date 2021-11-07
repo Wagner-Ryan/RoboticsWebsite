@@ -1,0 +1,66 @@
+.all{
+    width: 60vw;
+    height: auto;
+    margin: 5vw auto 0vw auto;
+    /*border: solid;*/
+}
+
+/* Style inputs with type="text", select elements and textareas */
+.input{
+    width: 15vw; /* Full width */
+    padding: .3vw; /* Some padding */  
+    border: .1vw solid #ccc; /* Gray border */
+    border-radius: .3vw; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: .2vw; /* Add a top margin */
+    margin-bottom: 3vw; /* Bottom margin */
+    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+    margin-left: 0vw;
+}
+
+  .message{
+    width: 40vw; /* Full width */
+    padding: 1vw; /* Some padding */  
+    border: .1vw solid #ccc; /* Gray border */
+    border-radius: .1vw; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: .2vw; /* Add a top margin */
+    margin-bottom: 2vw; /* Bottom margin */
+    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+    margin-left: 0vw;
+}
+  
+  /* Style the submit button with a specific background color etc */
+  .submit{
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    border-radius: .5vw;
+    cursor: pointer;
+    height: 2vw;
+    width: 4vw;
+    font-size: .75vw;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  .submit:hover {
+    background-color: darkgreen;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: white;
+    width: 41vw;
+    height: auto;
+    margin: 0vw auto;
+  }
+
+  .inputcon{
+      width: 16vw;
+      height: auto;
+  }
+
+  .text{
+      margin-left: .5vw;
+  }

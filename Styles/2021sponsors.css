@@ -1,0 +1,77 @@
+.all{
+    width: 65vw;
+    height: auto;
+    margin: 5vw auto 0vw auto;
+}
+
+.premier{
+    width: 65vw;
+    height: 1.5vw;
+    margin: 0vw auto;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.premierlogos{
+    width: 65vw;
+    height: 20vw;
+}
+
+.platinum{
+    width: 65vw;
+    height: 1.5vw;
+    margin: 0vw auto;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.platinumlogos{
+    width: 65vw;
+    height: 15vw;
+}
+
+.gold{
+    width: 65vw;
+    height: 1.5vw;
+    margin: 0vw auto;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.goldlogos{
+    width: 65vw;
+    height: 10vw;
+}
+
+.silver{
+    width: 65vw;
+    height: 1.5vw;
+    margin: 0vw auto;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.silverlogos{
+    width: 65vw;
+    height: 7.5vw;
+}
+
+.bronze{
+    width: 65vw;
+    height: 1.5vw;
+    margin: 0vw auto;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.bronzelogos{
+    width: 65vw;
+    height: 5vw;
+}
+
+.divider{
+    width: 40vw;
+    height: .1vw;
+    background-color: darkgreen;
+    margin: 3vw auto 3vw auto;
+}

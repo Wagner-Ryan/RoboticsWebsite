@@ -1,0 +1,142 @@
+.all{
+    width: 60vw;
+    height: auto;
+    margin: 6vw auto 0vw auto;
+}
+
+.IRAH{
+    width: 15vw;
+    height: auto;
+}
+
+.IRAHinfo{
+    width: 44vw;
+    height: 13vw;
+    border: solid thin;
+    float: right;
+}
+
+.IRAHinfo .info{
+    width: 26.5vw;
+    height: 13vw;
+    border: solid;
+    float: left;
+}
+
+.IRAHinfo img{
+    height: 12.9vw;
+    width: auto;
+    float: right;
+}
+
+.IR{
+    width: 15vw;
+    height: auto;
+}
+
+.IRinfo{
+    width: 44vw;
+    height: 11vw;
+    border: solid thin;
+    float: right;
+}
+
+.IRinfo .info{
+    width: 27vw;
+    height: 11vw;
+    border: solid;
+    float: left;
+}
+
+.IRinfo img{
+    height: 11vw;
+    width: auto;
+    float: right;
+}
+
+.DS{
+    width: 15vw;
+    height: auto;
+    margin-bottom: -2.5vw;
+}
+
+.DSinfo{
+    width: 44vw;
+    height: 12vw;
+    border: solid thin;
+    float: right;
+    margin-bottom: -2.5vw;
+}
+
+.DSinfo .info{
+    width: 28.5vw;
+    height: 12vw;
+    border: solid;
+    float: left;
+}
+
+.DSinfo img{
+    height: 12vw;
+    width: auto;
+    float: right;
+}
+
+.PU{
+    width: 15vw;
+    height: auto;
+    margin-bottom: 1.5vw;
+}
+
+.PUinfo{
+    width: 44vw;
+    height: 12vw;
+    border: solid thin;
+    float: right;
+    margin-bottom: 1.5vw;
+}
+
+.PUinfo .info{
+    width: 30vw;
+    height: 12vw;
+    border: solid;
+    float: left;
+}
+
+.PUinfo img{
+    height: 12vw;
+    width: auto;
+    float: right;
+}
+
+.SW{
+    width: 15vw;
+    height: auto;
+    margin-top: 1.5vw;
+}
+
+.SWinfo{
+    width: 44vw;
+    height: 11vw;
+    border: solid thin;
+    float: right;
+}
+
+.SWinfo .info{
+    width: 30.5vw;
+    height: 11vw;
+    border: solid;
+    float: left;
+}
+
+.SWinfo img{
+    height: 11vw;
+    width: auto;
+    float: right;
+}
+
+.divider{
+    width: 40vw;
+    height: .1vw;
+    background-color: darkgreen;
+    margin: 3vw auto 3vw auto;
+}
